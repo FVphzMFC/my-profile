@@ -1,0 +1,19 @@
+body {
+	background-color: #E7E0C9;
+}
+
+.card-white {
+	background-color: #C1CFC0;
+	box-shadow: 10px 35px 20px rgba(ss, 0, 0, 1.0);
+}
+
+
+.container{
+	width: 800px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+	img{border-radius: 100%;}
+
+
